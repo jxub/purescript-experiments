@@ -1,0 +1,24 @@
+{
+  "name": "purescript-experiments",
+  "set": "psc-0.12.3",
+  "source": "https://github.com/purescript/package-sets.git",
+  "depends": [
+    "arrays",
+    "console",
+    "control",
+    "effect",
+    "either",
+    "foldable-traversable",
+    "functions",
+    "lists",
+    "math",
+    "maybe",
+    "partial",
+    "prelude",
+    "profunctor-lenses",
+    "psci-support",
+    "strings",
+    "tuples",
+    "typelevel"
+  ]
+}
